@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "sender": "eifj",
+    "reciever": "efjoe",
+    "subject": "efj",
+    "message": "efje",
+    "date": "10-17 12:31",
+    "read": true,
+    "starred": false,
+    "type": "sender"
+  },
+  {
+    "id": 2,
+    "sender": "jfeew",
+    "reciever": "efkef",
+    "subject": "voe",
+    "message": "ck",
+    "date": "10-17 12:31",
+    "read": false,
+    "starred": false,
+    "type": "sender"
+  },
+{
+  "id": 1697539732364,
+  "sender": "fjwe",
+  "reciever": "fjew",
+  "subject": "efjoiewjf",
+  "message": "fjoewjfp",
+  "date": "10-17 16:18",
+  "read": false,
+  "starred": false,
+  "type": "sender"
+}
+  ,{
+  "id": 1697540622591,
+  "sender": "dwih",
+  "reciever": "wdqju",
+  "subject": "dwuqwyd",
+  "message": "wduy",
+  "date": "10-17 16:33",
+  "read": false,
+  "starred": false,
+  "type": "sender"
+},
+  {
+  "id": 1697543370827,
+  "sender": "wid",
+  "reciever": "ewf",
+  "subject": "e9",
+  "message": "oewf",
+  "date": "10-17 17:19",
+  "read": false,
+  "starred": false,
+  "type": "sender"
+}]
